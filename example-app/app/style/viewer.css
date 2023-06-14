@@ -25,19 +25,6 @@ header {
     box-shadow: rgb(208, 215, 222) 0px 0px 0px inset, rgb(208, 215, 222) 0px 1px 0px inset;
 }
 
-#sidebar2 {
-    flex: 5;
-}
-
-#sidebar2 div {
-    display: flex;
-    padding: 10px;
-    height: 15px;
-    align-items: center;
-    font-size: 12px;
-    box-shadow: rgb(208, 215, 222) 0px 0px 0px inset, rgb(208, 215, 222) 0px 1px 0px inset;
-}
-
 #title {
     display: flex;
     padding: 8px 12px;
